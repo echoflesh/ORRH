@@ -1,5 +1,5 @@
 # ORRH
-A decentralised launcher designed to play abandoned versions of Roblox.
+A decentralized launcher designed to play abandoned versions of Roblox.
 We achieve this by emulating dead/restricted website APIs and modifying the client executable.
 This software comes with no liabilities. I don't care if you have a problem with the software.
 I can't guarantee the safety of all the clients bundled.
